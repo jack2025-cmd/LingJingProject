@@ -1,0 +1,9 @@
+requestQueue:
+requestExchange:
+requestRoutingKey:
+
+virtualHost:
+rmqHost:
+rmqPort: 5672
+rmqUser:
+rmqPassword:
